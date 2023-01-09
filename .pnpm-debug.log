@@ -1,0 +1,14 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "code": "ERR_PNPM_NO_IMPORTER_MANIFEST_FOUND",
+    "err": {
+      "name": "pnpm",
+      "message": "No package.json (or package.yaml, or package.json5) was found in \"/home/crio-user/workspace/shilpakeswani28111994-ME_QTRIPDYNAMIC\".",
+      "code": "ERR_PNPM_NO_IMPORTER_MANIFEST_FOUND",
+      "stack": "pnpm: No package.json (or package.yaml, or package.json5) was found in \"/home/crio-user/workspace/shilpakeswani28111994-ME_QTRIPDYNAMIC\".\n    at readProjectManifest (/usr/pnpm-global/5/node_modules/.pnpm/pnpm@7.3.0/node_modules/pnpm/dist/pnpm.cjs:20853:13)\n    at async Object.readProjectManifestOnly (/usr/pnpm-global/5/node_modules/.pnpm/pnpm@7.3.0/node_modules/pnpm/dist/pnpm.cjs:20857:28)\n    at async readProjectManifestOnly (/usr/pnpm-global/5/node_modules/.pnpm/pnpm@7.3.0/node_modules/pnpm/dist/pnpm.cjs:44020:24)\n    at async Object.handler (/usr/pnpm-global/5/node_modules/.pnpm/pnpm@7.3.0/node_modules/pnpm/dist/pnpm.cjs:179659:24)\n    at async /usr/pnpm-global/5/node_modules/.pnpm/pnpm@7.3.0/node_modules/pnpm/dist/pnpm.cjs:187855:21\n    at async run (/usr/pnpm-global/5/node_modules/.pnpm/pnpm@7.3.0/node_modules/pnpm/dist/pnpm.cjs:187829:34)\n    at async runPnpm (/usr/pnpm-global/5/node_modules/.pnpm/pnpm@7.3.0/node_modules/pnpm/dist/pnpm.cjs:188047:5)\n    at async /usr/pnpm-global/5/node_modules/.pnpm/pnpm@7.3.0/node_modules/pnpm/dist/pnpm.cjs:188039:7"
+    }
+  }
+}
